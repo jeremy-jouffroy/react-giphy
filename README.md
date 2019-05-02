@@ -3,7 +3,7 @@
 Simple react starter with the following config:
 
 - React, ReactDOM
-- Webpack 4
+- Webpack 3
 - Babel with es2015 and react presets
 - Bootstrap (css only, loaded from a cdn in `index.html`)
 - work with `.js` or `.jsx` files
